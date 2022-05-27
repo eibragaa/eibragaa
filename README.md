@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estudando tecnologias de desenvolvimento Front-end
 - 🌱 Estudando HTML / CSS / JS 
-- ✅ Pyton / C# / Dart / Flutter
+- ✅ Python / C# / Dart / Flutter
 
 ##
 
